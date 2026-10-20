@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" role="img" aria-labelledby="title desc">
+  <title id="title">Latema Travellers</title>
+  <desc id="desc">Latema Travellers bus and safaris company logo</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd64d"/><stop offset="1" stop-color="#f3a900"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1881e8"/><stop offset="1" stop-color="#0847b8"/></linearGradient>
+  </defs>
+  <g transform="translate(8 8)">
+    <path d="M24 105A67 67 0 0 1 139 29" fill="none" stroke="url(#gold)" stroke-width="9" stroke-linecap="round"/>
+    <path d="M39 126A69 69 0 0 0 146 23" fill="none" stroke="url(#blue)" stroke-width="9" stroke-linecap="round"/>
+    <path d="M39 104V67q0-8 8-8h45q8 0 8 8v37H39Z" fill="url(#gold)" stroke="#0c1a48" stroke-width="4"/>
+    <path d="M48 65h18v16H48zm24 0h18v16H72z" fill="#0d2e69"/>
+    <path d="M36 83h68v13H36z" fill="#f3b51d" stroke="#0b1a4b" stroke-width="3"/>
+    <circle cx="53" cy="103" r="9" fill="#101b42" stroke="#83cce5" stroke-width="4"/><circle cx="91" cy="103" r="9" fill="#101b42" stroke="#83cce5" stroke-width="4"/>
+    <path d="M103 47q8-12 20-8l19 8q7 3 9 11l5 30q1 8-7 9h-42V47Z" fill="url(#blue)" stroke="#111b45" stroke-width="4"/>
+    <path d="M111 49h18v17h-18zm24 4 10 5 2 8h-12z" fill="#8fd8f1" stroke="#10214a" stroke-width="2"/>
+    <path d="M105 76h45v12h-45z" fill="#f5bd20" stroke="#111b45" stroke-width="3"/>
+    <circle cx="117" cy="99" r="8" fill="#111b45" stroke="#8bd3ed" stroke-width="4"/><circle cx="145" cy="99" r="8" fill="#111b45" stroke="#8bd3ed" stroke-width="4"/>
+  </g>
+  <text x="184" y="69" fill="#124db8" font-family="Arial, sans-serif" font-size="43" font-weight="800" letter-spacing="1.4">LATEMA TRAVELLERS</text>
+  <text x="188" y="104" fill="#bc7900" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="5">BUS AND SAFARIS CO. LIMITED</text>
+  <path d="M188 116h490" stroke="#e4ae2b" stroke-width="2"/>
+</svg>

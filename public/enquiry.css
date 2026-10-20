@@ -1,0 +1,23 @@
+.tracking-help-copy{display:flex;align-items:center;gap:10px}
+.tracking-help-form{display:grid;grid-template-columns:1fr 1fr auto;align-items:end;gap:7px;flex:1}
+.tracking-help-form label{display:grid;gap:4px;font-size:8px;font-weight:700;color:#657d92}
+.tracking-help-form input{height:35px;min-width:0;border:1px solid #dce6ed;border-radius:6px;padding:0 8px;font-size:9px}
+.tracking-help-form .button{min-height:35px;padding:0 10px;font-size:8px;gap:5px;white-space:nowrap}
+.request-help-card{flex-wrap:wrap}
+.enquiry-admin-list{display:grid;gap:9px}
+.enquiry-admin-card{border:1px solid #e2ebf2;border-radius:8px;padding:12px}
+.enquiry-admin-top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.enquiry-admin-top h3{font:800 12px system-ui,sans-serif;color:var(--navy);margin:5px 0}
+.enquiry-admin-top small{font-size:9px;color:#8594a4}
+.enquiry-type{font-size:8px;color:#3781a4;letter-spacing:.1em;font-weight:800}
+.enquiry-admin-actions{display:flex;gap:6px;flex-wrap:wrap}
+.enquiry-admin-details{display:grid;grid-template-columns:repeat(2,1fr);gap:7px;margin-top:10px}
+.enquiry-admin-details>span{font-size:9px;color:#5e748a;background:#f6fafc;padding:8px;border-radius:5px}
+.enquiry-admin-details b{display:block;font-size:8px;color:#8a99a6;margin-bottom:3px}
+.contact-request{margin:13px 0}
+.enquiry-form textarea{width:100%;min-height:68px;border:1px solid #d5e2ec;border-radius:7px;padding:8px 9px;background:#fcfeff;color:#283e57;font:inherit;font-size:10px;resize:vertical}
+.map-error{height:100%;display:grid;align-content:center;justify-items:center;gap:7px;background:#f4f9fc;color:#60778b;font-size:10px}
+.map-error span{font-size:8px}
+.track-empty-icon{width:54px;height:54px;display:grid;place-items:center;border-radius:50%;background:#e8f8fc;color:#218bb1;font-size:28px;box-shadow:0 0 0 8px #f1fbfd}
+.track-empty-icon+.button{margin-top:5px}
+@media(max-width:760px){.tracking-help-form{width:100%;grid-template-columns:1fr 1fr}.tracking-help-form .button{grid-column:1/-1;width:100%}.enquiry-admin-top{align-items:flex-start;flex-direction:column}.enquiry-admin-details{grid-template-columns:1fr}}

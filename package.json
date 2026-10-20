@@ -1,0 +1,10 @@
+{
+  "name": "latema-travels-portal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "build:static": "node scripts/build-static.mjs"
+  }
+}

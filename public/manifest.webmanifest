@@ -1,0 +1,10 @@
+{
+  "name": "Latema Travellers",
+  "short_name": "Latema",
+  "description": "A concept preview of Latema Travellers transport and parcel services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1fcff",
+  "theme_color": "#0b56c2",
+  "icons": [{ "src": "/latema-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

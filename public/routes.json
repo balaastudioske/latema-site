@@ -1,0 +1,15 @@
+{
+  "routes": [
+    {"id":"kabiria","name":"Kabiria Service Line","corridor":"Ngong Road · Adams Arcade · Satellite","stages":["CBD Ambassador","Upper Hill","KNH","Coptic","Ngong Road","Adams Arcade","Prestige","Corner Junction","Wanyee","Satellite","Kabiria / Satellite","Kabiria","Kabiria Mvisho"]},
+    {"id":"kikuyu","name":"Kikuyu Service Line","corridor":"Waiyaki Way · Uthiru · Kikuyu","stages":["CBD Commercial (Stanbank House)","Westlands","Waiyaki Way","Kangemi","Uthiru","Uthiru Junction – Mariguini","Kinoo","Muthiga","Rungiri","Gitaru","Kikuyu","Kikuyu Main Bus Terminus"]},
+    {"id":"gachie","name":"Gachie Route","corridor":"CBD · Red Hill · Gachie","stages":["CBD Lagos Road","ABC","Red Hill Link Road","Gachie Silver","Jakai","Number Nane"]},
+    {"id":"thika","name":"Thika Road Service Line","corridor":"CBD · Thika Road · Juja · Makongeni","stages":["CBD Archives / Ambassador","Ngara","Muthaiga","Roysambu","Githurai 45","Kahawa Wendani","Kahawa Sukari","Kamakis","Kihunguro","Ruiru","Gwa-Kairu","Kimbo","Allsops","Matangi","Survey","Kenyatta Road","Juja","Juja / Makongeni","Witeithie","Jomoko","CBD Thika","Cascade","Clay Works","Makongeni","MKU","Bypass"]},
+    {"id":"kawangware","name":"46 Kawangware Service Line","corridor":"Valley Road · Yaya · Kawangware","stages":["CBD Ambassador","Valley Road · DOD · Yaya","Valley Arcade","Amboseli · Congo","Mlango Soko · Myres Kawangware"]},
+    {"id":"nakuru","name":"Nairobi – Nakuru Service Line","corridor":"Mai Mahiu · Naivasha · Gilgil · Nakuru","stages":["Nairobi CBD Commercial (Stanbank House)","Mai Mahiu","Naivasha","Gilgil","Nakuru · Lions Garden Stall No. 9"]}
+  ],
+  "groups": [
+    {"name":"Nairobi West & South-West","corridor":"Kikuyu · Kabiria · Kawangware","ids":["kikuyu","kabiria","kawangware"]},
+    {"name":"Nairobi North & Thika Road","corridor":"Gachie · Thika Road · Juja","ids":["gachie","thika"]},
+    {"name":"Nairobi – Nakuru","corridor":"Mai Mahiu · Naivasha · Gilgil · Nakuru","ids":["nakuru"]}
+  ]
+}
